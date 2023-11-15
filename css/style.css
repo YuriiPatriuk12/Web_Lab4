@@ -268,7 +268,7 @@ header h2
 #blocks_container_div
 {
     display: flex;
-    min-height: 85vh;
+    min-height: 88vh;
     margin-top: 178px;
     gap: 1vh;
     z-index: 2;
@@ -283,7 +283,7 @@ header h2
     align-items: center;
     flex-direction: column;
     max-width: 300px; 
-    height: 28vh;
+    height: 25vh;
     border-radius: 7px; 
     background-color: white;
     padding: 10px;
