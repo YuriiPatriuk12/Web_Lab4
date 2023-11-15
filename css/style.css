@@ -19,6 +19,12 @@ body
 
 @media screen and (min-width: 1000px) {
 
+svg
+{
+    width: 35px; 
+    height: 35px;
+}
+
 #center_block
 {
     display: flex;
@@ -193,6 +199,12 @@ footer
 @media screen and (max-width: 1000px)
 {
 
+    svg
+{
+    width: 65px; 
+    height: 65px;
+}
+
     header
 {
     display: flex;
@@ -206,6 +218,7 @@ header h2
 {
     color: #4C3676;
     font-family: 'Encode Sans';
+    font-size: 35px;
 }
    
 #center_block
