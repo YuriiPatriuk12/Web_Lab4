@@ -199,19 +199,19 @@ footer
 @media screen and (max-width: 1000px)
 {
 
-    svg
+svg
 {
     width: 65px; 
     height: 65px;
 }
 
-    header
+header
 {
     display: flex;
     padding: 0 20%;
     align-items: center;
     justify-content: space-between;
-    min-height: 5vh;
+    min-height: 90px;
 }
 
 header h2
@@ -296,7 +296,7 @@ header h2
     align-items: center;
     flex-direction: column;
     max-width: 300px; 
-    height: 25vh;
+    height: 100%;
     border-radius: 7px; 
     background-color: white;
     padding: 10px;
